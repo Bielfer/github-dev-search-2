@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page Home matches snapshot 1`] = `
+<div>
+  <div
+    class="flex items-center justify-center h-screen"
+  >
+    <div>
+      <h1
+        class="text-center text-2xl font-bold italic pb-3"
+      >
+        Github Dev Search 2.0
+      </h1>
+      <div
+        class="flex"
+      >
+        <div
+          class="relative"
+        >
+          <input
+            class="px-2 py-1 border border-gray-900 outline-none rounded-l"
+            data-testid="input"
+            value=""
+          />
+        </div>
+        <button
+          class="transition bg-gray-900 hover:bg-gray-800 text-white px-2 rounded-r"
+          data-testid="button"
+          type="button"
+        >
+          Procurar
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
