@@ -1,2 +1,4 @@
 jest.config.js
 postcss.config.js
+cypress/support
+cypress/plugins
